@@ -18,7 +18,7 @@ HTTP2:
 
 -> It objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, 
    in the form of “key: value” pairs. 
-->These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+-> These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
 
 
 
