@@ -32,7 +32,7 @@ let person = {
     }
 };
 
-Internal Representation:
+-> Internal Representation:
 {
     name: "Nitishkumar S"          --> Property Name: "name", Value: "Nitishkumar S"
     age: 22                        --> Property Name: "age", Value: 22
