@@ -39,3 +39,5 @@ let person = {
     email: "abc@example.com"       --> Property Name: "email", Value: "abc@example.com"
     greet: <function>              --> Property Name: "greet", Value: Reference to the function
 }
+
+***************************************************************************************************
